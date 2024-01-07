@@ -69,5 +69,6 @@
   },
   "files.associations": {
     "*.html.erb": "erb"
-  }
+  },
+  "liveServer.settings.port": 5501
 }
